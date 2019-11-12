@@ -1,0 +1,5 @@
+<resources>
+    <string-array name="jurusan">Login</string-array>
+    <string-array name="selected_item">Selected item:</string-array>
+    <string name="univ">Univ :</string>
+</resources>
